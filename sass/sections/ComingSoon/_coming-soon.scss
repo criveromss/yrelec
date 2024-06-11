@@ -1,5 +1,5 @@
 body.coming-soon-page {
-  background: url(../../images/pattern_bg.png) center no-repeat;
+  background: url(.././images/pattern_bg.png) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
 
@@ -58,7 +58,7 @@ body.coming-soon-page {
     .countdown-unit {
       position: relative;
       min-width: 3.625rem;
-  
+
       &:before {
         content: ':';
         display: block;

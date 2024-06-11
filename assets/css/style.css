@@ -73,7 +73,7 @@ p {
   font-size: 13px;
   margin: 20px 0 10px;
 }
-img{  
+img{
   height: auto;
   max-width: 100%;
 }
@@ -144,7 +144,7 @@ a{
 }
 .btn {
   background: transparent;
-  padding: 15px 30px; 
+  padding: 15px 30px;
   color: #C32929;
   border-radius: 3px;
   line-height: 1.4;
@@ -188,7 +188,7 @@ a{
   text-transform: capitalize;
 }
 .footerTextRight{
-  text-align:right;  
+  text-align:right;
 }
 .topheader-inner{
   position: absolute;
@@ -351,7 +351,7 @@ a{
 }
 .action-top-menu.stick .btn-buy span{
   border-color: #D6001C;
-}   
+}
 .action-top-menu.stick .navbar .menu li.active a{
   text-decoration:underline;
 }
@@ -625,7 +625,7 @@ a{
 }
 .top-wrapper .title strong{
   font-weight: 700;
-}   
+}
 .top-wrapper {
   margin:40px 0 30px;
 }
@@ -663,7 +663,7 @@ a{
   padding-bottom: 30px;
 }
 #mobile{
-  background: url(../images/bg-mobile.png) #F3EDDF 100%;
+  background: url(./images/bg-mobile.png) #F3EDDF 100%;
   padding:50px 0;
 }
 @media(max-width: 991px){
@@ -773,7 +773,7 @@ a{
   }
 }
 .header-top{
-  background: url(../images/bg-header.jpg);
+  background: url(./images/bg-header.jpg);
   background-size: cover;
   background-repeat:no-repeat;
   background-attachment: fixed;
@@ -1121,7 +1121,7 @@ a{
 @media(max-width: 991px){
   .info-top{
     text-align: center;
-  }  
+  }
   .header-top .des{
     margin-bottom: 25px;
   }
